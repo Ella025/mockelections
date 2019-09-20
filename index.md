@@ -1,5 +1,4 @@
 
-#Welcome to my site!
 
 I mapped mock elections in LA County
 
